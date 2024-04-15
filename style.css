@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+
+.divClass{
+    display: flex;
+    padding-left: 33vw;
+    padding-right: 33vw;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.divClass div{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    border: 8px solid black;
+    margin: 5px;
+}
+
+.red{
+    background-color: rgb(230, 25, 25);
+}
+
+.green{
+    background-color: rgb(21, 135, 21);
+}
+
+.blue{
+    background-color: rgb(18, 18, 171);
+}
+.orange{
+    background-color: rgb(235, 151, 16);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: rgb(109, 112, 100);
+}
+
+.wrongFlash{
+    background-color: red;
+}
