@@ -39,7 +39,7 @@ To run the game locally, follow these steps:
 
 ## Demo
 
-You can play the game online (https://simon-says-game-nine.vercel.app/)(#).
+You can play the game online (https://simon-says-game-nine.vercel.app/).
 
 ## Contributing
 
